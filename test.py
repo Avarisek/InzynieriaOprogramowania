@@ -6,4 +6,4 @@ def dodawanie(a,b):
 jeden=input()
 dwa=input()
 
-print(dodawanie(pierwsza,druga))
+print(dodawanie(jeden,dwa))
