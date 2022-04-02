@@ -1,9 +1,9 @@
 print("Hello world")
 
-def dodawanie(a,b):
-    wynik=int(a)+int(b)
+def odejmowanie(a,b):
+    wynik=int(a)-int(b)
     return wynik
 jeden=input()
 dwa=input()
 
-print(dodawanie(jeden,dwa))
+print(odejmowanie(jeden,dwa))
